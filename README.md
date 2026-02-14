@@ -1,14 +1,14 @@
 # Controlle Maintenance Applicative
 
-##Comment lancer l’application.
+## Comment lancer l’application.
 Se rendre dans le dossier src/main au niveau du terminale 
 puis executer la commande "node applications.ts".
 
-##Comment exécuter les tests.
+## Comment exécuter les tests.
 Se rendre dans le dossier /tests au niveau du terminale
 puis executer la commande "deno test"
 
-##Structure du projet.
+## Structure du projet.
 src/
 |- controller/
 |- main/
